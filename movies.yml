@@ -1,0 +1,36 @@
+---
+1: !ruby/object:Movie
+  title: '1'
+  director: '1'
+  year: '1'
+  id: 1
+2: !ruby/object:Movie
+  title: '2'
+  director: '2'
+  year: '2'
+  id: 2
+3: !ruby/object:Movie
+  title: '3'
+  director: '3'
+  year: '3'
+  id: 3
+4: !ruby/object:Movie
+  title: '4'
+  director: '4'
+  year: '4'
+  id: 4
+5: !ruby/object:Movie
+  title: Nikita
+  director: luk besson
+  year: '1997'
+  id: 5
+6: !ruby/object:Movie
+  title: Leon
+  director: luk besson
+  year: '1997'
+  id: 6
+7: !ruby/object:Movie
+  title: Titanic
+  director: aaaaaa
+  year: '1997'
+  id: 7
